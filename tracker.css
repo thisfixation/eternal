@@ -1,0 +1,79 @@
+<link href='http://fonts.googleapis.com/css?family=Dancing+Script:700' rel='stylesheet' type='text/css'>
+<style type="text/css">
+
+#theplace {
+height: auto;
+width: 350px;
+background-image: url(http://background url here);
+border: 1px solid #fff; }
+
+.theimage {
+height: 185px;
+width: 300px;
+border: 2px solid #fff;
+margin: 10px;
+background-image: url(http://placehold.it/300x185); }
+
+.thetext {
+height: auto;
+width: 280px;
+padding: 10px;
+font-family: 'calibri';
+font-size: 10px;
+margin-bottom: 10px;
+text-align: justify;
+line-height: 100%;
+overflow: auto;
+background-color: #fff;
+text-transform: lowercase;
+color: #888888; }
+
+.thetext a:link {
+font-weight: bold;
+letter-spacing: 1px;
+text-transform: uppercase;}
+
+.thetext a:hover {
+font-weight: bold;
+letter-spacing: 1px;
+text-transform: uppercase;
+opacity: 0.8; }
+
+.thehead {
+width: 285px;
+height: auto;
+background-color: #a3c2c2;
+font-family: 'calibri';
+font-size: 9px;
+font-style: italic;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: 1px;
+text-align: right;
+margin-top: 5px;
+margin-bottom: 5px;
+color: #ffffff; }
+
+.namer {
+width: auto;
+height: auto;
+text-alignt: left;
+font-family: 'dancing script', cursive;
+text-transform: capitalize;
+color: #cde1df;
+margin-top: 20px;
+text-shadow: 1px 1px #555555;
+font-size: 45px; }
+
+#stanicred {
+width: 350px;
+font-family: 'calibri';
+font-size: 8px;
+font-style: italic;
+text-transform: uppercase;
+text-align: right;
+letter-spacing: 2px;}
+
+
+
+</style>
