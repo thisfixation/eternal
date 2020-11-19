@@ -1,20 +1,42 @@
-a
-{
-	color: #01232B;
-	font-family: 'Teko', sans-serif;
-}
-a:visited
-{
-	color: #01232B;
-  font-family: 'Teko', sans-serif;
-}
-a:hover
-{
-	color:  #01232B;
-  font-family: 'Teko', sans-serif;
-}
-a:active
-{
-	color:  #01232B;
-  font-family: 'Teko', sans-serif;
-}
+<style>
+ .dance {
+   width:350px;
+   padding: 25px;
+   border: 1px solid #efefef;
+   background: #fefefe;position: relative;
+   min-height: 100px;
+ }
+ .fuckerdance1 {
+   position: absolute; top: 15px; left: 15px;
+   width: 50px; height: 50px;
+   border-left: 1px solid #efefef;
+   border-top: 1px solid #efefef;
+ }
+ .fuckerdance2 {
+   position: absolute; bottom: 15px; left: 15px;
+   width: 50px; height: 50px;
+   border-left: 1px solid #efefef;
+   border-bottom: 1px solid #efefef;
+ }
+ .fuckerdance3 {
+   position: absolute; right: 15px; bottom: 15px;
+   width: 50px; height: 50px;
+   border-right: 1px solid #efefef;
+   border-bottom: 1px solid #efefef;
+ }
+ .fuckerdance4 {
+   position: absolute; top: 15px; right: 15px;
+   width: 50px; height: 50px;
+   border-right: 1px solid #efefef;
+   border-top: 1px solid #efefef;
+ }
+ .theyneverhad {
+   text-align: justify;
+   font-family: arial;
+   font-size: 11px;
+   line-height: 12px;
+   color: #363636; padding: 20px;
+ }
+ .theyneverhad img {float: right; padding: 5px; margin: 0px 0px 5px 10px;height: 100px; width: 100px; background: #fefefe; border: 1px solid #efefef;}
+ .achance {margin: 10px 0px 0px; padding: 10px; text-align: center; color: #afafaf; border: 1px solid #efefef;}
+</style>
