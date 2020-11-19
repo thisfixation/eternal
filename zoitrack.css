@@ -1,4 +1,10 @@
-#zoi a:link {color: #01232B;}
-#zoi a:visited, #zoi a:hover, #zoi a:active {
-  color: #24637A;
+.zoi a,
+.zoi a:visited,
+.zoi a,
+.zoi a:link {
+  text-transform: uppercase;
+  text-align: left;
+  color: #01232B;
+  font-weight: bold;
+
 }
