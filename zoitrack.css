@@ -1,10 +1,20 @@
-.zoi a,
-.zoi a:visited,
-.zoi a,
-.zoi a:link {
-  text-transform: uppercase;
-  text-align: left;
-  color: #01232B;
-  font-weight: bold;
-
+a
+{
+	color: #01232B;
+	font-family: 'Teko', sans-serif;
+}
+a:visited
+{
+	color: #01232B;
+  font-family: 'Teko', sans-serif;
+}
+a:hover
+{
+	color: #006600;
+  font-family: 'Teko', sans-serif;
+}
+a:active
+{
+	color: #CC0000;
+  font-family: 'Teko', sans-serif;
 }
