@@ -1,0 +1,10 @@
+.ctHeader { background-image: url('http://ariescapes.com/Shine/crossed_stripes.png');}
+.ct-avatar {width:100px; height: 100px; border: 5px solid #78AFAF; margin-top:-120px;margin-right:-220px;}
+.ctbottom {width: 0;height: 0;border-style: solid; border-width: 0 0 100px 420px; border-color: transparent transparent #1C605C transparent; margin-top:-50px;}
+.ct-title b {color: #78AFAF;}
+.tblheads h1 {margin-top: -5px;}
+.tblheads h3 {margin-top: -45px; }
+.tblcontent {border: 2px solid #78AFAF;height:60px;padding: 3px; width:100%; border-radius:5px; text-align:justify; font-size:10px; letter-spacing: 1px; font-family: 'Josefin Sans', sans-serif; color: #989898; overflow:auto;}
+.tblcontent::-webkit-scrollbar { display: none;}
+.tblcontent b {font-size:11px; font-family: 'Josefin Sans', sans-serif; color: #78AFAF; font-weight:bold;}
+.tblcontent i {font-size:11px; letter-spacing: 2px; font-family: 'Josefin Sans', sans-serif; color: #78AFAF; font-style:italic;}
