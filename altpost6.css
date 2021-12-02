@@ -11,7 +11,7 @@ margin: auto;
 background: var(--shade1);
 border-bottom: 5px solid var(--shade3);
 height: 90px;
-text-align: center;
+text-align: left;
 }
 
 .post9-2img img {
@@ -79,7 +79,7 @@ border-bottom: 5px solid var(--shade3);
 border-top-right-radius: 5px;
 border-top-left-radius: 5px;
 height: 70px;
-text-align: center;
+text-align: left;
 margin-top: 50px;
 }
 
