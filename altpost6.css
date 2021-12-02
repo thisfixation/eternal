@@ -1,0 +1,135 @@
+<style type="text/css">
+/****************************************
+    Post 9 IMG Template
+*****************************************/
+.post9-2 {
+width: 450px;
+margin: auto;
+}
+
+.post9-2img {
+background: var(--shade1);
+border-bottom: 5px solid var(--shade3);
+height: 90px;
+text-align: center;
+}
+
+.post9-2img img {
+margin-top: 20px;
+margin-bottom: 20px;
+border-radius: 5px;
+height: 120px;
+width: 120px;
+border: 5px solid var(--shade3);
+background: var(--shade1);
+}
+
+.post9-2-inner {
+    color: var(--fontcolor2);
+    background: var(--contentinner);
+padding: 20px;
+padding-top: 70px;
+border-bottom: 5px solid var(--shade3);
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+
+}
+
+.crystal .post9-2img, .crystal .post9-2img img, .crystal .post9-2-inner {
+border-color: var(--crystal);
+}
+
+.earthlings .post9-2img, .earthlings .post9-2img img, .earthlings .post9-2-inner {
+border-color: var(--earthlings);
+}
+
+.future .post9-2img, .future .post9-2img img, .future .post9-2-inner {
+border-color: var(--future);
+}
+
+.pantheon .post9-2img, .pantheon .post9-2img img, .pantheon .post9-2-inner {
+border-color: var(--pantheon);
+}
+
+.galactica .post9-2img, .galactica .post9-2img img, .galactica .post9-2-inner {
+border-color: var(--galactica);
+}
+
+.darka .post9-2img, .darka .post9-2img img, .darka .post9-2-inner {
+border-color: var(--darka);
+}
+
+.inactive .post9-2img, .inactive .post9-2img img, .inactive .post9-2-inner {
+border-color: var(--inactive);
+}
+
+/****************************************
+    Post 9 IMG Template Rounded
+*****************************************/
+.post9 {
+width: 450px;
+margin: auto;
+margin-top: -50px;
+}
+
+.post9img {
+background: var(--shade1);
+padding: 10px;
+border-bottom: 5px solid var(--shade3);
+border-top-right-radius: 5px;
+border-top-left-radius: 5px;
+height: 70px;
+text-align: center;
+margin-top: 50px;
+}
+
+.post9img img {
+border-radius: 100%;
+margin-top: 10px;
+margin-bottom: 20px;
+height: 120px;
+width: 120px;
+padding: 5px;
+border: 5px solid var(--shade3);
+background: var(--shade1);
+}
+
+.post9-inner {
+    color: var(--fontcolor2);
+    background: var(--contentinner);
+padding: 20px;
+padding-top: 80px;
+border-bottom: 5px solid var(--shade3);
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+
+}
+
+.crystal .post9img, .crystal .post9img img, .crystal .post9-inner {
+border-color: var(--crystal);
+}
+
+.earthlings .post9img, .earthlings .post9img img, .earthlings .post9-inner {
+border-color: var(--earthlings);
+}
+
+.future .post9img, .future .post9img img, .future .post9-inner {
+border-color: var(--future);
+}
+
+.pantheon .post9img, .pantheon .post9img img, .pantheon .post9-inner {
+border-color: var(--pantheon);
+}
+
+.galactica .post9img, .galactica .post9img img, .galactica .post9-inner {
+border-color: var(--galactica);
+}
+
+.darka .post9img, .darka .post9img img, .darka .post9-inner {
+border-color: var(--darka);
+}
+
+.inactive .post9img, .inactive .post9img img, .inactive .post9-inner {
+border-color: var(--inactive);
+}
+</style>
